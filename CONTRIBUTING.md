@@ -47,8 +47,8 @@ Of course, feel free to create a new issue if you think something needs to be ad
 
 * [Sign the Contributor License Agreement][cla].
 * All content, comments, and pull requests must follow the [Stellar Community
-  Guidelines][community-guidelines] and [Code of Conduct][coc] Push your changes to a topic branch
-  in your fork of the repository.
+  Guidelines][community-guidelines] and [Code of Conduct][coc]
+* Push your changes to a topic branch in your fork of the repository.
 * Submit a pull request to the [docs repository](https://github.com/stellar/docs) in the Stellar
   organization.
   * Include a descriptive [commit message][commit-msg].
