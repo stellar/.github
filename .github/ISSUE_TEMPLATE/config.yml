@@ -5,7 +5,7 @@ contact_links:
     about: Please ask questions here
   - name: Protocol requests
     url: https://github.com/stellar/stellar-protocol
-    about: Tell us about uggestions for changes to the Stellar protocol (new operation for example) or ecosystem standards
+    about: Propose changes to the Stellar protocol or ecosystem standards
   - name: Report a security vulnerability
     url: https://www.stellar.org/community/bug-bounty-program/
     about: Please review our security policy for more details
