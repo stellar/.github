@@ -12,7 +12,7 @@ labels: bug
 
 <!--
 JS: Check `yarn.lock` or `package-lock.json` to find out precisely what version of the SDK you're running.
-Go: Check `go.mod` or `go list -m github.com/stellar/go`.
+Go: Check `go.mod` or `go list -m`.
 -->
 
 ### What did you do?
