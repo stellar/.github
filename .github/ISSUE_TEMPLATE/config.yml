@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Ask a question
+    url: https://stellar.stackexchange.com/questions/ask
+    about: Please ask questions here
+  - name: Protocol requests
+    url: https://github.com/stellar/stellar-protocol
+    about: Propose changes to the Stellar protocol or ecosystem standards
+  - name: Report a security vulnerability
+    url: https://www.stellar.org/community/bug-bounty-program/
+    about: Review our security policy for more details
