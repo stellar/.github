@@ -8,7 +8,7 @@ labels: 'feature-request'
 
 <!-- Please answer these questions before submitting your issue. Thanks! -->
 
-### What problem does your feature request solve?
+### What problem does your feature solve?
 
 
 ### What would you like to see?
