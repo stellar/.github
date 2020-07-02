@@ -3,7 +3,7 @@ contact_links:
   - name: Ask a question
     url: https://stellar.stackexchange.com/questions/ask
     about: Please ask questions here
-  - name: Developer Mailing List
+  - name: Developer mailing list
     url: https://groups.google.com/g/stellar-dev
     about: Discuss Core Advancement Proposals (CAPs) and Stellar Ecosystem Proposals (SEPs) and talk about development of stellar-core, Horizon, and the rest of the Stellar platform. A place for conversations that move the protocol and ecosystem forward.
   - name: Protocol requests
