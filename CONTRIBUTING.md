@@ -45,7 +45,6 @@ Of course, feel free to create a new issue if you think something needs to be ad
 
 ## Submitting Changes
 
-* [Sign the Contributor License Agreement][cla].
 * All content, comments, and pull requests must follow the [Stellar Community
   Guidelines][community-guidelines] and [Code of Conduct][coc]
 * Push your changes to a topic branch in your fork of the repository.
