@@ -84,6 +84,15 @@ details please see our reporting guidelines below.
   us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
 * Most of all, **be excellent to each other.**
 
+## Contributions to Open Source Software
+If you are contributing to a Stellar open source development project, which is managed by Stellar
+Development Foundation ("Stellar OSS"), then you acknowledge that all your contributions  are
+contributed by you under the Apache 2.0 license. If your employer(s) has rights to intellectual
+property that you create that includes your contributions to Stellar OSS, you represent that you
+have received permission to make your contributions on behalf of that employer, that your employer
+has waived such rights for your contributions to SDF, or that your employer has executed a separate
+agreement with SDF.
+
 ## Diversity Statement
 We encourage everyone to participate and are committed to building a community for all. We are
 committed to being a community that everyone feels good about joining. Although we may not be able
