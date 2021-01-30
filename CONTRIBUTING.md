@@ -45,9 +45,8 @@ Of course, feel free to create a new issue if you think something needs to be ad
 
 ## Submitting Changes
 
-* [Sign the Contributor License Agreement][cla].
-* All content, comments, and pull requests must follow the [Stellar Community
-  Guidelines][community-guidelines] and [Code of Conduct][coc]
+* All content, comments, pull requests and other contributions must comply with the
+  [Stellar Code of Conduct][coc].
 * Push your changes to a topic branch in your fork of the repository.
 * Submit a pull request to the [docs repository](https://github.com/stellar/docs) in the Stellar
   organization.
@@ -65,7 +64,6 @@ alternatives.
 * [Explore the API](https://www.stellar.org/developers/reference/)
 * [Stack Exchange](http://stellar.stackexchange.com/)
 * #dev-discussion channel on [Keybase](https://keybase.io/team/stellar.public)
-* [Contributor License Agreement][cla]
 
 This document is inspired by:
 
@@ -75,6 +73,4 @@ This document is inspired by:
 
 [help-wanted]: https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Astellar+label%3A%22help+wanted%22
 [commit-msg]: https://github.com/erlang/otp/wiki/Writing-good-commit-messages
-[cla]: https://docs.google.com/forms/d/1g7EF6PERciwn7zfmfke5Sir2n10yddGGSXyZsq98tVY/viewform?usp=send_form
-[community-guidelines]: https://www.stellar.org/community-guidelines/
 [coc]: https://github.com/stellar/.github/blob/master/CODE_OF_CONDUCT.md
