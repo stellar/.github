@@ -1,6 +1,6 @@
-# Stellar Default Github Community Health Files
+# Ytbigvinny27 Default Github Community Health Files
 
-This repo contains Stellar's default community health file defaults on Github, such as:
+This repo contains Ytbigvinny's default community health file defaults on Github, such as:
 
 - CODE_OF_CONDUCT
 - CONTRIBUTING
