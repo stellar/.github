@@ -1,7 +1,5 @@
-<div align="center">
 <h1><img alt="Stellar" src="https://github.com/stellar/.github/raw/master/stellar-logo.png" width="558" /></h1>
 <br/>
-</div>
 
 Stellar is an open network for storing and moving money, creating equitable access to the global financial system.
 
