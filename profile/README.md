@@ -1,6 +1,3 @@
-<h1><img alt="Stellar" src="https://github.com/stellar/.github/raw/master/stellar-logo.png" width="558" /></h1>
-<br/>
-
 Stellar is an open network for storing and moving money, creating equitable access to the global financial system.
 
 Stellar makes it possible to create, send, and trade digital representations of all forms of money: dollars, pesos, bitcoin, pretty much anything. It’s designed so all the world’s financial systems can work together on a single network.
