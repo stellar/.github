@@ -7,6 +7,8 @@ Stellar makes it possible to create, send, and trade digital representations of 
 
 Stellar is open source.
 
+Get involved:
+
 - [Learn more](https://www.stellar.org/learn/intro-to-stellar)
 - [Mailing list](https://groups.google.com/g/stellar-dev)
 - [Protocol proposals](https://github.com/stellar/stellar-protocol)
