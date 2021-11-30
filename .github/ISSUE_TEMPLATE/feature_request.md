@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Tell us what you'd like to see
-title: 'Feature Request: '
+title: ''
 labels: 'feature request'
 
 ---
