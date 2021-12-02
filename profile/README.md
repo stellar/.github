@@ -10,6 +10,7 @@ Get involved:
 - [Mailing list](https://groups.google.com/g/stellar-dev)
 - [Protocol proposals](https://github.com/stellar/stellar-protocol)
 - [Ask a question](https://stellar.stackexchange.com/questions/ask)
+- [Join the developers Discord](https://discord.gg/ksfVcEB4nA)
 
 Integrate:
 
