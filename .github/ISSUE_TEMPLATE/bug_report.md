@@ -26,7 +26,7 @@ A link on an online code editor is best. The following online editors are great.
  - Others: https://repl.it
 -->
 
-### What did you expect to see?
+### What did you expect to see (add exact commands if possible)? 
 
 
 ### What did you see instead?
