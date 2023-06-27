@@ -1,19 +1,17 @@
-Stellar is an open network for storing and moving money, creating equitable access to the global financial system.
+Stellar is a layer-1 open-source decentralized blockchain network aiming to create equitable access to the global financial system. Stellar is designed to enable creators and developers to build projects on the network that can interoperate with each other and the world’s financial systems.
 
-Stellar makes it possible to create, send, and trade digital representations of all forms of money: dollars, pesos, bitcoin, pretty much anything. It’s designed so all the world’s financial systems can work together on a single network.
+Soroban is an open-source Rust-based smart contracts platform that is built for scalability and real-world utility. Soroban integrates with and works alongside the existing Stellar blockchain.
 
-Stellar is open source.
+Learn more:
+
+[About Stellar](https://www.stellar.org/learn/intro-to-stellar)  
+[Stellar docs](https://developers.stellar.org/docs/)  
+[About Soroban](https://soroban.stellar.org/)  
+[Soroban docs](https://soroban.stellar.org/docs)  
 
 Get involved:
 
-- [Learn more](https://www.stellar.org/learn/intro-to-stellar)
-- [Mailing list](https://groups.google.com/g/stellar-dev)
-- [Protocol proposals](https://github.com/stellar/stellar-protocol)
-- [Ask a question](https://stellar.stackexchange.com/questions/ask)
-- [Join the developers Discord](https://discord.gg/ksfVcEB4nA)
-
-Integrate:
-
-- [Developers](https://www.stellar.org/developers)
-- [API Reference](https://developers.stellar.org/api)
-- [SDKs](https://developers.stellar.org/docs/software-and-sdks/)
+[Mailing list](https://groups.google.com/g/stellar-dev)  
+[Protocol proposals](https://github.com/stellar/stellar-protocol)  
+[Ask a question](https://stellar.stackexchange.com/questions/ask)  
+[Developer Discord](https://discord.gg/stellardev)
