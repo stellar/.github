@@ -5,9 +5,8 @@ Soroban is an open-source Rust-based smart contracts platform that is built for 
 Learn more:
 
 - [About Stellar](https://www.stellar.org/learn/intro-to-stellar)  
-- [Stellar docs](https://developers.stellar.org/docs/)  
-- [About Soroban](https://soroban.stellar.org/)  
-- [Soroban docs](https://soroban.stellar.org/docs)  
+- [Stellar docs](https://developers.stellar.org)
+- [Developer Hub](https://stellar.org/stellar-developer-hub)
 
 Get involved:
 
