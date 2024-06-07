@@ -16,7 +16,7 @@ JS: Check `yarn.lock` or `package-lock.json` to find out precisely what version 
 Go: Check `go.mod` or `go list -m`.
 -->
 
-### What did you do?
+### What did you do (add exact commands if possible)?
 
 <!--
 If possible, provide a recipe for reproducing the error.
