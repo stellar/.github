@@ -26,7 +26,7 @@ an issue number.
 ## Finding things to work on
 
 The first place to start is always looking over the current GitHub issues for the project you are
-interested in contributing to. Issues marked with [help wanted][help-wanted] are usually pretty
+interested in contributing to. Issues marked with [help wanted][help-wanted] or are usually pretty
 self-contained and a good place to get started.
 
 Stellar.org also uses these same GitHub issues to keep track of what we are working on. If you see
@@ -38,9 +38,9 @@ Of course, feel free to create a new issue if you think something needs to be ad
 
 ## Making Changes
 
-* Create a topic branch from where you want to base your work.
-  * This is usually the master branch.
-  * Please avoid working directly on the `master` branch.
+* Create a feature branch from where you want to base your work.
+  * This is usually the main (or master) branch.
+  * Please avoid working directly on the `main` (or `master`) branch.
 * Make sure you have added the necessary tests for your changes and make sure all tests pass.
 
 ## Submitting Changes
@@ -48,11 +48,11 @@ Of course, feel free to create a new issue if you think something needs to be ad
 * All content, comments, pull requests and other contributions must comply with the
   [Stellar Code of Conduct][coc].
 * Push your changes to a topic branch in your fork of the repository.
-* Submit a pull request to the [docs repository](https://github.com/stellar/docs) in the Stellar
+* Submit a pull request to the repository in the Stellar
   organization.
   * Include a descriptive [commit message][commit-msg].
   * Changes contributed via pull request should focus on a single issue at a time.
-  * Rebase your local changes against the master branch. Resolve any conflicts that arise.
+  * Rebase your local changes against the `main` branch. Resolve any conflicts that arise.
 
 
 At this point you're waiting on us. We like to at least comment on pull requests within three
@@ -61,9 +61,8 @@ alternatives.
 
 # Additional Resources
 
-* [Explore the API](https://www.stellar.org/developers/reference/)
-* [Stack Exchange](http://stellar.stackexchange.com/)
-* #dev-discussion channel on [Keybase](https://keybase.io/team/stellar.public)
+* [Explore our APIs](https://developers.stellar.org/docs)
+* [Stellar Developer Discord](https://discord.com/invite/stellardev)
 
 This document is inspired by:
 
