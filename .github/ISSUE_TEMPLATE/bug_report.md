@@ -11,7 +11,7 @@ labels: bug
 ### What version are you using?
 
 <!--
-CLI: Share the output of `[cli] version`, for example: `soroban version`.
+CLI: Share the output of `[cli] version`, for example: `stellar version`.
 JS: Check `yarn.lock` or `package-lock.json` to find out precisely what version of the SDK you're running.
 Go: Check `go.mod` or `go list -m`.
 -->
