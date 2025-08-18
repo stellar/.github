@@ -29,9 +29,11 @@ The first place to start is always looking over the current GitHub issues for th
 interested in contributing to. Issues marked with [help wanted][help-wanted] or are usually pretty
 self-contained and a good place to get started.
 
-Stellar.org also uses these same GitHub issues to keep track of what we are working on. If you see
-any issues that are assigned to a particular person or have the `in progress` label, that means
-someone is currently working on that issue this issue in the next week or two.
+The Stellar Development Foundation also uses these same GitHub issues to keep track of what we are
+working on.
+
+Before starting work on an issue it can be a good idea to communicate on the issue, discussing
+what the solution might look like, and if it would make sense to contribute to it.
 
 Of course, feel free to create a new issue if you think something needs to be added or fixed.
 
