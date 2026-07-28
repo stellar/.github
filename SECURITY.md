@@ -5,4 +5,4 @@ projects, including [Stellar Core](https://github.com/stellar/stellar-core/) and
 [Horizon](https://github.com/stellar/stellar-horizon).
 
 For more details on the program and how to report a vulnerability, please visit [our bug bounty
-page on our website](https://www.stellar.org/bug-bounty-program/).
+page](https://stellar.org/grants-and-funding/bug-bounty).
