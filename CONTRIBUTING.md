@@ -1,67 +1,57 @@
 # How to contribute to a Stellar project
 
 Your contributions to the [Stellar network](https://www.stellar.org/) will help improve the world’s
-financial infrastructure, faster.
+financial infrastructure.
 
-We want to make it as easy as possible to contribute changes that help the Stellar network grow and
-thrive. There are a few guidelines that we ask contributors to follow so that we can merge your
-changes quickly.
+We want to make it as easy as possible to contribute to Stellar in ways that make the network grow
+and thrive. There are a few guidelines that we ask contributors to follow so that we all work
+effectively together.
+
+> [!TIP]
+> The Stellar network is open, decentralised, and programmable. For many ideas you may have, they can
+> be built without changes to the projects hosted here. Want to contribute to Stellar? Build on Stellar!
+> And share your feedback in the forums listed below.
+
+To contribute to the work of maintaining the projects hosted here the biggest impact contributions
+are in discussions, sharing new ideas, reporting bugs, and sharing experience reports.
 
 ## Getting Started
 
-* Make sure you have a [GitHub account](https://github.com/signup/free).
-* Create a GitHub issue for your contribution, assuming one does not already exist.
-  * Clearly describe the issue including steps to reproduce if it is a bug.
-* Fork the repository on GitHub.
+* Make sure you have a [GitHub account](https://github.com/signup/free)
+* Create discussions at https://github.com/orgs/stellar/discussions with problems and new ideas,
+  or participate in existing discussions
+* Create proposals at https://github.com/stellar/stellar-protocol after sharing ideas in a
+  discussion first
+* Create GitHub issues for bugs and feature requests that target specific projects
 
-### Minor Changes
+## Reporting Bugs and Requesting Features
 
-#### Documentation
+First search for an existing issue and join a relevant discussion if an existing issue is present.
 
-For small changes to comments and documentation, it is not
-always necessary to create a new GitHub issue. In this case, it is
-appropriate to start the first line of a commit with 'doc' instead of
-an issue number.
+After confirming an issue does not already exist, create a GitHub issue with:
+  * The concrete problem that needs solving.
+  * For bugs, include a minimal reproducer with the expected and actual behavior.
+  * Relevant alternatives, if any, and their tradeoffs.
+  * Verify everything reported before submitting. Do not submit speculative findings or generated
+    lists of possible issues.
 
-## Finding things to work on
+## Pull Requests
 
-The first place to start is always looking over the current GitHub issues for the project you are
-interested in contributing to. Issues marked with [help wanted][help-wanted] or are usually pretty
-self-contained and a good place to get started.
+Projects hosted here only accept pull requests for issues with the `help wanted` label. Unsolicited
+pull requests will be closed without an explanation and reported as spam. Making changes requires
+deep architectural knowledge, a good understanding of system constraints, and an idea about the
+project roadmap. Many Stellar projects facilitate financial transactions or are dependencies to many
+other projects. Correctness is critical and thoughtful evolution of behaviour and APIs is paramount.
+However, maintainer and reviewer time is limited. External contributors often do not have the context
+required and reviewing takes the maintainers' focus away from high-priority work that's been
+discussed in the discussion forums and issues.
 
-The Stellar Development Foundation also uses these same GitHub issues to keep track of what we are
-working on.
+Key things to keep in mind when creating a pull request:
+* Confirm, does the pull request narrowly address an open issue and have you been assigned?
+* Fork the project's repository and submit the pull request from a branch in your fork.
+* Link the approved issue and keep the pull request narrowly within the scope of that issue.
 
-Before starting work on an issue it can be a good idea to communicate on the issue, discussing
-what the solution might look like, and if it would make sense to contribute to it.
-
-Of course, feel free to create a new issue if you think something needs to be added or fixed.
-
-
-## Making Changes
-
-* Create a feature branch from where you want to base your work.
-  * This is usually the main (or master) branch.
-  * Please avoid working directly on the `main` (or `master`) branch.
-* Make sure you have added the necessary tests for your changes and make sure all tests pass.
-
-## Submitting Changes
-
-* All content, comments, pull requests and other contributions must comply with the
-  [Stellar Code of Conduct][coc].
-* Push your changes to a topic branch in your fork of the repository.
-* Submit a pull request to the repository in the Stellar
-  organization.
-  * Include a descriptive [commit message][commit-msg].
-  * Changes contributed via pull request should focus on a single issue at a time.
-  * Rebase your local changes against the `main` branch. Resolve any conflicts that arise.
-
-
-At this point you're waiting on us. We like to at least comment on pull requests within three
-business days (typically, one business day). We may suggest some changes, improvements or
-alternatives.
-
-# Additional Resources
+## Additional Resources
 
 * [Explore our APIs](https://developers.stellar.org/docs)
 * [Stellar Developer Discord](https://discord.com/invite/stellardev)
