@@ -18,6 +18,8 @@ are in discussions, sharing new ideas, reporting bugs, and sharing experience re
 ## Getting Started
 
 * Make sure you have a [GitHub account](https://github.com/signup/free)
+* Read the [Stellar Code of Conduct][coc], as all content, comments, pull requests and other
+  contributions must comply with it
 * Create discussions at https://github.com/orgs/stellar/discussions with problems and new ideas,
   or participate in existing discussions
 * Create proposals at https://github.com/stellar/stellar-protocol after sharing ideas in a
