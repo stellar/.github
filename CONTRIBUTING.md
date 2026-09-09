@@ -53,6 +53,21 @@ Key things to keep in mind when creating a pull request:
 * Fork the project's repository and submit the pull request from a branch in your fork.
 * Link the approved issue and keep the pull request narrowly within the scope of that issue.
 
+## AI-Assisted Contributions
+
+The use of AI tools to improve productivity and the quality of contributions is encouraged. AI assistance does not, however, change the responsibilities or standards that apply to the human contributor.
+
+Before exposing other community members to AI-assisted content, the human submitter is responsible for:
+
+- Reviewing and verifying all generated content, including code, tests, code comments, documentation, issues, pull-request descriptions, review feedback, chat messages, forum posts, and other project or community communications. Appropriate tests and checks must be performed where applicable.
+- Ensuring the contribution is correct, relevant, and appropriate for the project, including its security, reliability, maintainability, and adherence to project standards.
+- Ensuring they have the right to submit the contribution, including compliance with applicable copyright, licensing, attribution, and other third-party requirements.
+- Fully understanding the contribution. The submitter must be able to explain it in their own words, including its context, assumptions, design choices, tradeoffs, and implications, and be able to answer questions and validate changes arising during review.
+- Taking full responsibility for the contribution. AI assistance does not transfer responsibility for errors, omissions, security issues, licensing problems, or other consequences to the AI tool or its provider.
+- Respecting the time and attention of other community members. AI must not be used to generate high volumes of low-quality or speculative contributions, or to shift the burden of understanding, verification, debugging, or cleanup onto reviewers and maintainers.
+
+AI tools must not autonomously publish contributions or communications including code changes, issues, reviews, chat messages, or forum posts to community channels without human review. AI-assisted contributions are held to the same standards as contributions produced without AI assistance.
+
 ## Additional Resources
 
 * [Explore our APIs](https://developers.stellar.org/docs)
