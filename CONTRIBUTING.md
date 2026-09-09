@@ -8,12 +8,12 @@ and thrive. There are a few guidelines that we ask contributors to follow so tha
 effectively together.
 
 > [!TIP]
-> The Stellar network is open, decentralised, and programmable. For many ideas you may have, they can
+> The Stellar network is open, decentralized, and programmable. For many ideas you may have, they can
 > be built without changes to the projects hosted here. Want to contribute to Stellar? Build on Stellar!
 > And share your feedback in the forums listed below.
 
-To contribute to the work of maintaining the projects hosted here the biggest impact contributions
-are in discussions, sharing new ideas, reporting bugs, and sharing experience reports.
+To contribute to the work of maintaining the projects hosted here, the biggest-impact contributions
+are participating in discussions, sharing new ideas, reporting bugs, and sharing experience reports.
 
 ## Getting Started
 
