@@ -100,12 +100,6 @@ submitter is responsible for:
 - [Explore our APIs](https://developers.stellar.org/docs)
 - [Stellar Developer Discord](https://discord.com/invite/stellardev)
 
-This document is inspired by:
-
-- https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md
-- https://github.com/thoughtbot/factory_girl_rails/blob/master/CONTRIBUTING.md
-- https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md
-
 [help-wanted]: https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Astellar+label%3A%22help+wanted%22
 [commit-msg]: https://github.com/erlang/otp/wiki/Writing-good-commit-messages
 [coc]: https://github.com/stellar/.github/blob/master/CODE_OF_CONDUCT.md
