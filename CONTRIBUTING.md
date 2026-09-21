@@ -96,11 +96,6 @@ submitter is responsible for:
   to shift the burden of understanding, verification, debugging, or cleanup onto
   reviewers and maintainers.
 
-AI tools must not autonomously publish contributions or communications including
-code changes, issues, reviews, chat messages, or forum posts to community
-channels without human review. AI-assisted contributions are held to the same
-standards as contributions produced without AI assistance.
-
 ## Additional Resources
 
 - [Explore our APIs](https://developers.stellar.org/docs)
