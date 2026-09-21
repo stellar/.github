@@ -9,9 +9,9 @@ contributors to follow so that we all work effectively together.
 
 > [!TIP]
 > The Stellar network is open, decentralized, and programmable. Many ideas you
-> may have can be built without changes to the projects hosted here.
-> Want to contribute to Stellar? Build on Stellar! And share your feedback in
-> the forums listed below.
+> may have can be built without changes to the projects hosted here. Want to
+> contribute to Stellar? Build on Stellar! And share your feedback in the forums
+> listed below.
 
 To contribute to the work of maintaining the projects hosted here, the
 biggest-impact contributions are participating in discussions, sharing new
