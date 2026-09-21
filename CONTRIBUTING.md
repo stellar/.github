@@ -45,14 +45,15 @@ After confirming an issue does not already exist, create a GitHub issue with:
 ## Pull Requests
 
 Projects hosted here only accept pull requests for issues with the `help wanted`
-label. Unsolicited pull requests will be closed without an explanation and
-reported as spam. Making changes requires deep architectural knowledge, a good
-understanding of system constraints, and an idea about the project roadmap. Many
-Stellar projects facilitate financial transactions or are dependencies to many
-other projects. Correctness is critical and thoughtful evolution of behaviour
-and APIs is paramount. However, maintainer and reviewer time is limited.
-External contributors often do not have the context required and reviewing takes
-the maintainers' focus away from high-priority work that's been discussed in the
+label or if they indicate otherwise in their own contributing guidelines.
+Unsolicited pull requests will be closed without an explanation and reported as
+spam. Making changes requires deep architectural knowledge, a good understanding
+of system constraints, and an idea about the project roadmap. Many Stellar
+projects facilitate financial transactions or are dependencies to many other
+projects. Correctness is critical and thoughtful evolution of behaviour and APIs
+is paramount. However, maintainer and reviewer time is limited. External
+contributors often do not have the context required and reviewing takes the
+maintainers' focus away from high-priority work that's been discussed in the
 discussion forums and issues.
 
 Key things to keep in mind when creating a pull request:
