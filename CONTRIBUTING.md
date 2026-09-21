@@ -60,8 +60,6 @@ Key things to keep in mind when creating a pull request:
 
 - Confirm, does the pull request narrowly address an open issue and have you
   been assigned?
-- Fork the project's repository and submit the pull request from a branch in
-  your fork.
 - Link the approved issue and keep the pull request narrowly within the scope of
   that issue.
 
