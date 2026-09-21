@@ -60,10 +60,9 @@ that the ecosystem is waiting on.
 
 Key things to keep in mind when creating a pull request:
 
-- Does the pull request narrowly address an open issue and have you been
-  assigned?
-- Link the approved issue and keep the pull request narrowly within the scope of
-  that issue.
+- Does the change narrowly address an open issue and have you been assigned?
+- Does the change comply with the [Stellar Code of Conduct][coc].
+- Link the approved issue.
 
 ## AI-Assisted Contributions
 
