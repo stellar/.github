@@ -103,7 +103,7 @@ submitter is responsible for:
   to shift the burden of understanding, verification, debugging, or cleanup onto
   reviewers and maintainers.
 
-A corollary is that **AI tools must not autonomously publish contributions or communications
+**AI tools must not autonomously publish contributions or communications
 to community channels without human review**; this includes code changes, issues, reviews,
 chat messages, and forum posts.
 
